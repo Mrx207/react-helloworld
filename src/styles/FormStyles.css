@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    display: flex;
+}
+.form{
+    border:1px solid black;
+    width: 500px;
+    height: 150px;
+    padding:10px;
+}
+.inputField{
+    display: flex;
+    justify-content: space-evenly;
+    padding:5px;
+}
